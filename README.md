@@ -23,7 +23,7 @@
 <!-- Contact Section -->
 <div align="center">
   <h2 align="center">
-    𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
+    𝗖𝗼𝗻𝘁𝗮𝗰𝘁 me
   </h2>
 
   <div align="center">
