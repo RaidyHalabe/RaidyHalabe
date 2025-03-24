@@ -15,7 +15,7 @@
 
   <div align="center">
     <img src="https://img.shields.io/badge/🌍%20Country-Brazil-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎂%20Age-20-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎂%20Age-17-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/💻%20Developer-blue?style=for-the-badge" />
   </div>
 </div>
