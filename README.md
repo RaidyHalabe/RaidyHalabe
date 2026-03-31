@@ -54,9 +54,7 @@
 
 <h2 align="left">Talk to me!</h2>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-</div>
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/800790624851722280)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidyHalabe&theme=merko" alt="GitHub Streak Stats" />
