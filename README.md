@@ -4,7 +4,8 @@
   hello! i'm raidy, an 18-year-old fullstack developer from brazil who enjoys building real products that people can actually use.
   i like turning ideas into complete applications from web systems and apis to automation tools and scalable platforms. i'm always learning by doing, improving my skills, and focusing on clean and efficient code.
   right now, my main goal is to keep building consistently, growing as a developer, and leveling up through real-world experience.<br><br>
-  <i>fullstack developer / web systems developer / api developer at <a href="https://github.com/eway-dev">e-way</a></i>
+  <i>fullstack developer/web systems developer/api developer at <a href="https://github.com/eway-dev">e-way</a></i>
+   <i>fullstack developer/backend & frontend engineer/system Builder at <a href="https://www.holics.dev/">Holics</a></i>
 </p>
 
 <h2 align="left">Langs & Tools</h2>
