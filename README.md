@@ -57,7 +57,7 @@
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/800790624851722280)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaidyHalabe&theme=merko" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erickzao&theme=merko" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
