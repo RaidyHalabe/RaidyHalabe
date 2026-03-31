@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-</div>
+</div><br></br>
 
 <div align="center">
   <img height="300" src="https://i.pinimg.com/1200x/17/20/d7/1720d790501de0d35cec03f1280cfda9.jpg"  />
