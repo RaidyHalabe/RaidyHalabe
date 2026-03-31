@@ -1,18 +1,13 @@
 <h2 align="left">👋 About Me</h2>
-
 <p align="left">
   hello! i'm raidy, an 18-year-old fullstack developer from brazil who enjoys building real products that people can actually use.
   i like turning ideas into complete applications from web systems and apis to automation tools and scalable platforms. i'm always learning by doing, improving my skills, and focusing on clean and efficient code.
   right now, my main goal is to keep building consistently, growing as a developer, and leveling up through real-world experience.<br><br>
-  <i>fullstack developer/web systems developer/api developer at <a href="https://github.com/eway-dev">e-way</a></i><br></br>
-   <i>fullstack developer/backend & frontend engineer/system Builder at <a href="https://www.holics.dev/">Holics</a></i>
+  <i>fullstack developer/web systems developer/api developer at <a href="https://github.com/eway-dev">e-way</a></i><br>
+  <i>fullstack developer/backend & frontend engineer/system Builder at <a href="https://www.holics.dev/">Holics</a></i>
 </p>
-
 <h2 align="left">Langs & Tools</h2>
-
-
 <br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
@@ -32,8 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
@@ -55,23 +48,13 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="center">
   <img height="300" src="https://i.pinimg.com/1200x/17/20/d7/1720d790501de0d35cec03f1280cfda9.jpg"  />
 </div>
 
-###
-
 <h2 align="left">Talk to me!</h2>
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
 </div>
 
-###
-
-
-###
